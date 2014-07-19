@@ -1,3 +1,37 @@
+<<<<<<< HEAD
+/*.suo
+/*.sdf
+*.opensdf
+/HelloWorld/Debug
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.pyd
+/Debug
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> f9acef2031b3a95f20a9beffe40d2b934f40a950
 /*.suo
 /*.sdf
 *.opensdf

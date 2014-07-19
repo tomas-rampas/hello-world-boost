@@ -1,0 +1,10 @@
+/*.suo
+/*.sdf
+*.opensdf
+/HelloWorld/Debug
+*.exp
+*.ilk
+*.lib
+*.pdb
+*.pyd
+/Debug
